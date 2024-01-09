@@ -18,6 +18,18 @@ section {
     height: 90vh;
 }
 
+.banner-text {
+    text-align: center;
+    width: 50%;
+}
+
+.banner-content {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
 #deals {
     text-align: center;
 }
@@ -263,16 +275,4 @@ section {
 
 .text-88 {
     font-size: 88px;
-}
-
-.banner-text {
-    text-align: center;
-    width: 50%;
-}
-
-.banner-content {
-    display: flex;
-    height: 100%;
-    align-items: center;
-    justify-content: center;
 }
